@@ -1,4 +1,8 @@
+# Presentación
+
+https://docs.google.com/presentation/d/1153eVLGqN7VTlpW2oNuubGnYaxB_3cvciaO2x4PlRck/edit?usp=sharing
 # Libros para aprende machine learning
+
 1. Introducción a la minería de datos (Orallo, 2004)
 2. Pattern Recognition Concepts (Marques de Sá, 2001)
 3. Pattern Recognition Second edition (Theodoridis, Koutroumbas, 2003)
@@ -9,21 +13,22 @@
 8. Pattern Recognition Statistical, Structural and Neural Networks (Schalkoff, 1992)
 
 # Reconocimiento de Patrones
+
 1. Theory of Cognitive Pattern Recognition (Y Pi, 2008)
 2. Pattern Recognition Principies (Tou, 1977)
 3. Introductory Chapter: Pattern Recognition as Cognitive Process (Zak, 2019)
 4. Reconocimiento de Patrones - Reporte Técnico (Shulcloper, Carrasco-Ochoa, Martínez-Trinidad,2013)
 5. An Introduction to Statistical Learning (Casella, Fienberg, Olkin, 2019)
 6. Hands-On Patter Recognition (Guyon, Cawley, Dror, Saffari, 2011)
-
-
-11. The elements of Statistical Learning (Hastie, 2008)
+7. The elements of Statistical Learning (Hastie, 2008)
 
 # Deep Learning
+
 1. Fundamentals of Deep Learning (Buduma, 2016)
 2. Neural Networks and Deep Learning (Nielsen, 2018)
 
 # Recursos Web
+
 1. https://becominghuman.ai/
 2. https://medium.com/
 3. https://www.upgrad.com/blog/data-scientists-myths-vs-realities/
